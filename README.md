@@ -1,8 +1,8 @@
 # M2Streaming - Next.js Streaming Dashboard
 
-Nom : Nasake
+Nom : Salles Otta
 
-Prénom : à compléter
+Prénom : Wilfrid Ryan
 
 ## Lancer le projet
 
